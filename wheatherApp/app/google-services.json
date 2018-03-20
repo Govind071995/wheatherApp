@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "258563443512",
+    "firebase_url": "https://wheather-5cf40.firebaseio.com",
+    "project_id": "wheather-5cf40",
+    "storage_bucket": "wheather-5cf40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258563443512:android:dc6fd6bd960191a3",
+        "android_client_info": {
+          "package_name": "com.govind.wheather.wheatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258563443512-t1qgpr43q2hscfitjbc8jojg9taa2hf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEyIrlgnen594NzO0pnzbWOGzEccmo4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
